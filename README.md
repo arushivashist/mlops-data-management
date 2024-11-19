@@ -1,4 +1,4 @@
-# MLOps Data Management Project
+# MLOps Data Management
 
 This repository showcases a comprehensive MLOps workflow focused on data pipeline creation, feature engineering, and feature store management using tools like Apache Airflow, Docker, Feast, and AWS.
 
